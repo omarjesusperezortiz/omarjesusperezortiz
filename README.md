@@ -15,11 +15,30 @@ I am a Full Stack Developer from Peru living in Barcelona.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-omar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omapero/)
 
 ---
+###  <h2>FIGMA DESIGN</h2>
+
+  - CIRCLE PROJECT:<br>
+  https://www.figma.com/file/slz6FuItVPZfJ412U2SOvw/Circle-Project?node-id=0%3A1&t=RTzyTM1jIurY8JZp-1
   
-### <h2>JAVASCRIPT APPS</h2>
+  - SNAP PROJECT:<br>
+  https://www.figma.com/file/LNxeNlytu451yKvn3CgOcL/Snap-Project?node-id=0%3A1&t=RTzyTM1jIurY8JZp-1
+  
+  
+###  <h2>WEB DEVELOPMENT</h2>
+
+  - CIRCLE PROJECT:<br>
+  https://github.com/omarjesusperezortiz/circle-project
+ 
+  - BRANDPERU FRONT PAGE PROJECT:<br>
+  https://github.com/omarjesusperezortiz/brandperu-website
+  
+  - SNAP PROJECT:<br>
+  https://github.com/omarjesusperezortiz/snap-project
+  
+### <h2>JAVASCRIPT FUNCTIONS</h2>
  
   - TODO LIST APP with VUE 3: <br>
-   https://omarjesusperezortiz.github.io/final-project-ironhack/
+  https://omarjesusperezortiz.github.io/final-project-ironhack/
    
   - CALCULATOR with JAVASCRIPT:<br>
   https://omarjesusperezortiz.github.io/calculator-quiz-ironhack/
@@ -27,16 +46,7 @@ I am a Full Stack Developer from Peru living in Barcelona.
   - WEB APP WITH VUE, VUE ROUTER AND TAILWIND CSS:<br>
   https://omarjesusperezortiz.github.io/vue-tailwind-practice/
   
-###  <h2>WEB DESIGN</h2>
 
-  - CIRCLE PROJECT:<br>
- https://github.com/omarjesusperezortiz/circle-project
- 
-  - BRANDPERU FRONT PAGE PROJECT:<br>
-https://github.com/omarjesusperezortiz/brandperu-website
-  
-  - SNAP PROJECT:<br>
-  https://github.com/omarjesusperezortiz/snap-project
 
 ---
 
