@@ -20,6 +20,9 @@ I am a Full Stack Developer from Peru living in Barcelona.
   - CIRCLE PROJECT:<br>
   https://www.figma.com/file/slz6FuItVPZfJ412U2SOvw/Circle-Project?node-id=0%3A1&t=RTzyTM1jIurY8JZp-1
   
+  - OCIANICA PROJECT:<br>
+  https://www.figma.com/file/wPLIFy4VLhtj8eDEPa4Eo7/Untitled?node-id=0%3A1&t=WWXwvQHgRJgJhRxk-1
+  
   - SNAP PROJECT:<br>
   https://www.figma.com/file/LNxeNlytu451yKvn3CgOcL/Snap-Project?node-id=0%3A1&t=RTzyTM1jIurY8JZp-1
   
