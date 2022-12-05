@@ -55,7 +55,7 @@ I am a Full Stack Developer from Peru living in Barcelona.
 ### <h2>REACT PROJECTS</h2>
  
   - TITANIC INFO DISPLAY WITH COREUI AND NIVO: <br>
-  GitHub Pages : https://omarjesusperezortiz.github.io/titanic-project/
+  GitHub Pages : https://omarjesusperezortiz.github.io/titanic-project/ <br>
   GitHub Repository : https://github.com/omarjesusperezortiz/titanic-project
   
 
