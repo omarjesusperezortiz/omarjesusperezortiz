@@ -52,7 +52,12 @@ I am a Full Stack Developer from Peru living in Barcelona.
   - WEB APP WITH VUE, VUE ROUTER AND TAILWIND CSS:<br>
   https://omarjesusperezortiz.github.io/vue-tailwind-practice/
   
-
+### <h2>REACT PROJECTS</h2>
+ 
+  - TITANIC INFO DISPLAY WITH COREUI AND NIVO: <br>
+  GitHub Pages : https://omarjesusperezortiz.github.io/titanic-project/
+  GitHub Repository : https://github.com/omarjesusperezortiz/titanic-project
+  
 
 ---
 
