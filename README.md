@@ -34,9 +34,6 @@ I am a Full Stack Developer from Peru living in Barcelona.
 
   - CIRCLE PROJECT:<br>
   https://github.com/omarjesusperezortiz/circle-project
- 
-  - BRANDPERU FRONT PAGE PROJECT:<br>
-  https://github.com/omarjesusperezortiz/brandperu-website
   
   - SNAP PROJECT:<br>
   https://github.com/omarjesusperezortiz/snap-project
@@ -45,6 +42,9 @@ I am a Full Stack Developer from Peru living in Barcelona.
  
   - TODO LIST APP with VUE 3: <br>
   https://omarjesusperezortiz.github.io/final-project-ironhack/
+  
+  - WIKICOUNTRIES APP WITH VUE 3: <br>
+  https://omarjesusperezortiz.github.io/lab-vue-wiki-countries/
   
 
 ### <h2>REACT PROJECTS</h2>
