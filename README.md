@@ -45,13 +45,8 @@ I am a Full Stack Developer from Peru living in Barcelona.
  
   - TODO LIST APP with VUE 3: <br>
   https://omarjesusperezortiz.github.io/final-project-ironhack/
-   
-  - CALCULATOR with JAVASCRIPT:<br>
-  https://omarjesusperezortiz.github.io/calculator-quiz-ironhack/
   
-  - WEB APP WITH VUE, VUE ROUTER AND TAILWIND CSS:<br>
-  https://omarjesusperezortiz.github.io/vue-tailwind-practice/
-  
+
 ### <h2>REACT PROJECTS</h2>
  
   - TITANIC INFO DISPLAY WITH COREUI AND NIVO: <br>
