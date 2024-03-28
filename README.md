@@ -38,7 +38,7 @@ I am a Full Stack Developer from Peru living in Barcelona.
   - SNAP PROJECT:<br>
   https://github.com/omarjesusperezortiz/snap-project
   
-### <h2>JAVASCRIPT FUNCTIONS</h2>
+### <h2>VUE PROJECTS</h2>
  
   - TODO LIST APP with VUE 3 - VITE - AUTH - VERCEL: <br>
   https://github.com/omarjesusperezortiz/to-do-vercel-storage
