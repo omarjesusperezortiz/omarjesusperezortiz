@@ -41,7 +41,7 @@ I am a Full Stack Developer from Peru living in Barcelona.
 ### <h2>JAVASCRIPT FUNCTIONS</h2>
  
   - TODO LIST APP with VUE 3 - VITE - AUTH - VERCEL: <br>
-  [https://omarjesusperezortiz.github.io/final-project-ironhack/](https://github.com/omarjesusperezortiz/to-do-vercel-storage)
+  https://github.com/omarjesusperezortiz/to-do-vercel-storage
   
   - WIKICOUNTRIES APP WITH VUE 3: <br>
   https://omarjesusperezortiz.github.io/lab-vue-wiki-countries/
