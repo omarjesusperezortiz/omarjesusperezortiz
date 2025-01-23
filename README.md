@@ -73,8 +73,3 @@ I am a Full Stack Developer from Peru living in Barcelona.
 </div>
 
 ---
-
-### :fire: My Stats :
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omarjesusperezortiz&theme=dark-smoky)](https://git.io/streak-stats)
